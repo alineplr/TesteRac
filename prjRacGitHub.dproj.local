@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/08/30 13:44:50.000.094,=C:\Users\Aline\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/30 13:50:59.000.290,=C:\Users\Aline\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/30 14:07:44.000.417,=C:\Users\Aline\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/10/15 09:16:24.000.042,=C:\Users\Aline\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/25 11:37:31.000.289,=C:\Users\Aline\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/28 17:51:34.000.111,=C:\Users\Aline\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/28 18:57:56.000.011,=C:\Users\Aline\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/03 18:58:47.000.971,=C:\Users\Aline\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/04 17:26:20.000.529,=C:\Users\Aline\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/04 19:08:49.000.305,=C:\Users\Aline\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/04 19:09:45.000.836,=C:\Users\Aline\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/22 11:40:39.000.443,=C:\Users\Aline\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/24 17:46:49.000.093,=C:\Users\Aline\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/04 17:21:32.000.261,=C:\Users\Aline\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/04 21:13:49.000.184,=C:\Users\Aline\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/10/04 21:14:58.000.881,D:\Sistema\Rac\untDetalheConsumoAPIGitHub.pas=C:\Users\Aline\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/10/04 21:14:58.000.881,D:\Sistema\Rac\untDetalheConsumoAPIGitHub.dfm=C:\Users\Aline\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2023/10/04 21:15:19.000.137,D:\Sistema\Rac\untConsumoAPIGitHub.pas=C:\Users\Aline\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/04 21:15:19.000.137,D:\Sistema\Rac\untConsumoAPIGitHub.dfm=C:\Users\Aline\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/10/04 21:15:34.000.490,D:\Sistema\Rac\prjRacGitHub.dproj=C:\Users\Aline\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/10/12 17:09:25.000.724,=D:\Sistema\Rac\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
